@@ -1,4 +1,4 @@
-# Projeto Eden
+# Projeto Eden 🩵🤖
 O grupo luminary criou o projeto Eden com o objetivo de ajudar na diminuição do descarte incorreto de lixo eletrônico e contribuir para um mundo mais sustentável de acordo com os Objetivos de Desenvolvimento Sustentável da ONU.
 
 ## ✏️ Autores do documento:
@@ -24,9 +24,20 @@ O grupo luminary criou o projeto Eden com o objetivo de ajudar na diminuição d
 ## 📱 Conheça nosso App!
 ![Aplicativo](https://raw.githubusercontent.com/Luminary-Team/eden-mobile/refs/heads/main/app/release/app-release.apk)
 
-### 🌻 Sistema operacional!
-- Android 
+## 🌻 Sistema operacional!
+- Dispositivo Android - versão 13+
 
 ## 🔗 Links importantes: 
  - [Site Eden](https://eden-landing-page.onrender.com/)
  - [GitHub](https://github.com/Luminary-Team/eden-landing-page)
+
+## 🐧 Linguagens e tecnologias utilizadas (Back/Front):
+- JavaScript
+- Java
+- HTML
+- CSS
+- Python
+
+## 🎲 Banco de dados:
+- MongoDb
+- PostgresSql
